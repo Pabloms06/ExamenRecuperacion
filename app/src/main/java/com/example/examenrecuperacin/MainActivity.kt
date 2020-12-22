@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
 
         val sb = StringBuilder(length)
 
-        val alphabet = "9999"
+        val alphabet = "numeros"
 
         val rand = Random
         for ( i in 0 until sb.capacity() ) {
